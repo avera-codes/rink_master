@@ -1,3 +1,4 @@
+# Arch packages
 *.tar
 *.tar.*
 *.jar
@@ -11,3 +12,38 @@
 
 pkg/
 src/
+# System
+.DS_Store
+Thumbs.db
+
+# Cache
+*.cache
+*.log
+*.bak
+*.swp
+
+# ENVS
+venv/
+env/
+.venv/
+.env/
+conda/
+
+
+# Configs
+.env.local
+.vscode/
+.idea/
+
+# Build
+generated/
+dist/
+build/
+
+# Private
+credentials.json
+secret.txt
+
+# Exe
+*.pdf
+*.exe
