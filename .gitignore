@@ -23,6 +23,10 @@ Thumbs.db
 *.swp
 
 # ENVS
+rink_master/bin/
+rink_master/include/
+rink_master/lib/
+rink_master/pyvenv.cfg
 venv/
 env/
 .venv/
