@@ -23,6 +23,7 @@ Thumbs.db
 *.swp
 
 # ENVS
+.rink_master
 rink_master/bin/
 rink_master/include/
 rink_master/lib/
