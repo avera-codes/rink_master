@@ -15,6 +15,7 @@ src/
 # System
 .DS_Store
 Thumbs.db
+notebooks/catboost_info
 
 # Cache
 *.cache
