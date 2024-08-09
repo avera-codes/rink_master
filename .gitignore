@@ -16,6 +16,7 @@ src/
 .DS_Store
 Thumbs.db
 notebooks/catboost_info
+.rink_master/catboost_info
 
 # Cache
 *.cache
